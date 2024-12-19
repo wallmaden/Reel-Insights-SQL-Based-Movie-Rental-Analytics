@@ -30,6 +30,6 @@ The SQL queries are designed to answer key business questions, such as:
 - Scripts and analysis results can be found under the /scripts/ and /output/ directories.
 
 ## Resources
-Entity Relationship Diagram: [ERD Presentation](./ERD Exercise 3.10 Presenting SQL Results.xlsx)
-Data Dictionary: [Data Dictionary](./3.10 Data Dictionary.pdf)
-Project Slides: [SQL Analysis Presentation](./3.10 SQL Presentation example.pdf)
+- Entity Relationship Diagram: [ERD Presentation](./ERD Exercise 3.10 Presenting SQL Results.xlsx)
+- Data Dictionary: [Data Dictionary](./3.10 Data Dictionary.pdf)
+- Project Slides: [SQL Analysis Presentation](./3.10 SQL Presentation example.pdf)
