@@ -7,26 +7,27 @@ Rockbuster Stealth LLC is launching an online video rental service to remain com
 ## Data
 The dataset comprises the following parameters:
 
-Rentals
-Payments
-Customers
-Inventory
-Movies
+- Rentals
+- Payments
+- Customers
+- Inventory
+- Movies
 Details on data relationships can be referenced in the [ERD](./ERD Exercise 3.10 Presenting SQL Results.xlsx) and the [Data Dictionary](./3.10 Data Dictionary.pdf).
 
 ## Tools
 For this project, the following tools and libraries were used:
 
-SQL – for data extraction, cleaning, and analysis
-Excel – for intermediate reporting and data presentation
-Tableau – for data visualization
-Executing the Code
+- SQL – for data extraction, cleaning, and analysis
+- Excel – for intermediate reporting and data presentation
+- Tableau – for data visualization - View Visualisation on Tableau Public
+- [Tableau Workbook - Reel-Insights](https://public.tableau.com/views/Rockbustergeographicaldistributionofcustomersandtherevenue_17309731630710/Top10Countries?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 The SQL queries are designed to answer key business questions, such as:
 
-Top and bottom revenue-generating movies
-Average rental duration and pricing
-Geographic distribution of customers and high-value regions
-Scripts and analysis results can be found under the /scripts/ and /output/ directories.
+- Top and bottom revenue-generating movies
+- Average rental duration and pricing
+- Geographic distribution of customers and high-value regions
+- Scripts and analysis results can be found under the /scripts/ and /output/ directories.
 
 ## Resources
 Entity Relationship Diagram: [ERD Presentation](./ERD Exercise 3.10 Presenting SQL Results.xlsx)
