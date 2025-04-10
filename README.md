@@ -55,3 +55,14 @@ For this project, the following tools and libraries were used:
 - Integrate predictive analytics to forecast rental demand.
 - Expand dataset with streaming data for a competitive strategy.
 - Automate data reporting via Python & Power BI.
+
+---
+
+## Author
+
+**Paul Maden**  
+Business & Data Analyst  
+🌐 [www.paulsmaden.com](https://www.paulsmaden.com)  
+📧 wallmaden@hotmail.com  
+
+---
